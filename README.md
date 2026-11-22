@@ -20,7 +20,7 @@ I'm a staff software engineer working on distributed systems and search engines.
 
 ---
 
-## Featured project
+## Featured projects
 
 ### [BitPacking Java](https://github.com/sherman/bitpacking-public)
 
