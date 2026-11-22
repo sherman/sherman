@@ -14,9 +14,9 @@ I'm a staff software engineer working on distributed systems and search engines.
 ## Key technologies
 
 - Modern java (SIMD, Panama) 
-- Elasticsearch for search and time-series storage
-- Apache Lucene
-- Data Fusion/Spark
+- Distributed systems (fault-tolerance patterns, replication, consistency trade-offs)
+- Search engines (data plane, control plane, retrieval, ranking)
+- Performance (profiling, concurrency, CPU/memory efficiency)
 
 ---
 
