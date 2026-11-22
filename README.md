@@ -24,7 +24,7 @@ I'm a staff software engineer working on distributed systems and search engines.
 
 ### [BitPacking Java](https://github.com/sherman/bitpacking-public)
 
-A modern bitpacking implementation for Java 25+ that uses AVX-512 kernels to pack and unpack blocks of 128 unsigned integers.
+Bitpacking lib in pure java for modern hardware (AVX-512)
 
 ---
 
