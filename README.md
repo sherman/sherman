@@ -4,7 +4,7 @@ I'm a staff software engineer working on distributed systems and search engines.
 
 ## Where I've worked
 
-- **01tech** - Platform developer
+- **01.tech** - Platform developer
 - **Ozon** — Ozon's search engine (base-search team)
 - **Yandex** — YQL
 - **Odnoklassniki** — Big data
